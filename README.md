@@ -4,7 +4,7 @@ Markdown training
 
 ---
 
-- __[pica](/#/docs/401)__ - high quality and fast image
+- __[pica](/#/docs)__ - high quality and fast image
   resize in browser.
 - __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
   i18n with plurals support and easy syntax.
